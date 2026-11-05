@@ -56,10 +56,27 @@ Welcome to my GitHub! I'm currently learning programming, exploring new technolo
 - 🚀 Believe in learning and growing every day.
 
 ---
+## 📈 Contribution Graph
 
-## 🤝 Connect With Me
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhikamishra2007&theme=tokyo-night&hide_border=true"/>
+</p>
+---
+
+## 🤝 Connect With Me🌐
 
 - GitHub: [@Radhikamishra2007](https://github.com/Radhikamishra2007)
+<p align="left">
+<a href="https://github.com/Radhikamishra2007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Radhikamishra2007/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Radhikamishra2007/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
 
 ---
 
