@@ -56,12 +56,6 @@ Welcome to my GitHub! I'm currently learning programming, exploring new technolo
 - 🚀 Believe in learning and growing every day.
 
 ---
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhikamishra2007&theme=tokyo-night&hide_border=true"/>
-</p>
----
 
 ## 🤝 Connect With Me🌐
 
